@@ -1,3 +1,4 @@
+remote_theme: uol-library/spacefinder
 title: Space Finder
 email: "d.knox@kent.ac.uk"
 description: >-
@@ -12,25 +13,25 @@ google_analytics: ""
 photo_dir: "/assets/photos/"
 lang: "en"
 dc:
-  creator: ""
-  dateCreated: ""
-  dateModified: ""
-  publisher: ""
-  spatialCoverage: ""
+  creator: "University of Leeds"
+  dateCreated: "2022-06-06"
+  dateModified: "2022-10-13"
+  publisher: "University of Leeds"
+  spatialCoverage: "University of Leeds campus"
   types:
     - "InteractiveResource"
   subjects:
     - "Digital mapping"
     - "College Campuses"
 terms:
-  url: ""
-  text: ""
-  shorttext: ""
+  url: "https://www.leeds.ac.uk/termsandconditions"
+  text: "Terms &amp; Conditions"
+  shorttext: "Terms"
 foi:
-  url: ""
-  text: ""
-  shorttext: ""
-copyright: ""
+  url: "https://www.leeds.ac.uk/freedom-of-information"
+  text: "Freedom of Information"
+  shorttext: "FOI"
+copyright: "University of Leeds"
 sass:
   style: compressed
 plugins:
